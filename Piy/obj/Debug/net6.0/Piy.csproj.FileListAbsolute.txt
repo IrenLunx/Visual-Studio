@@ -1,0 +1,15 @@
+D:\Program Files\Prodgekt\Piy\Piy\bin\Debug\net6.0\Piy.exe
+D:\Program Files\Prodgekt\Piy\Piy\bin\Debug\net6.0\Piy.deps.json
+D:\Program Files\Prodgekt\Piy\Piy\bin\Debug\net6.0\Piy.runtimeconfig.json
+D:\Program Files\Prodgekt\Piy\Piy\bin\Debug\net6.0\Piy.dll
+D:\Program Files\Prodgekt\Piy\Piy\bin\Debug\net6.0\Piy.pdb
+D:\Program Files\Prodgekt\Piy\Piy\obj\Debug\net6.0\Piy.csproj.AssemblyReference.cache
+D:\Program Files\Prodgekt\Piy\Piy\obj\Debug\net6.0\Piy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files\Prodgekt\Piy\Piy\obj\Debug\net6.0\Piy.AssemblyInfoInputs.cache
+D:\Program Files\Prodgekt\Piy\Piy\obj\Debug\net6.0\Piy.AssemblyInfo.cs
+D:\Program Files\Prodgekt\Piy\Piy\obj\Debug\net6.0\Piy.csproj.CoreCompileInputs.cache
+D:\Program Files\Prodgekt\Piy\Piy\obj\Debug\net6.0\Piy.dll
+D:\Program Files\Prodgekt\Piy\Piy\obj\Debug\net6.0\refint\Piy.dll
+D:\Program Files\Prodgekt\Piy\Piy\obj\Debug\net6.0\Piy.pdb
+D:\Program Files\Prodgekt\Piy\Piy\obj\Debug\net6.0\Piy.genruntimeconfig.cache
+D:\Program Files\Prodgekt\Piy\Piy\obj\Debug\net6.0\ref\Piy.dll
